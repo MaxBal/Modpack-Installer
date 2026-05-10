@@ -310,9 +310,9 @@ This addon modifies panel files directly. Always keep backups and test updates o
 
 ## Screenshots
 <img width="1901" height="589" alt="image" src="https://github.com/user-attachments/assets/cc48bd1f-da6d-4657-aab1-2a9204812686" />
-
+<br>
 <img width="1224" height="680" alt="image" src="https://github.com/user-attachments/assets/4287052a-b3eb-46a2-b4d3-a4e63b3d2dc8" />
-
+<br>
 <img width="1261" height="748" alt="image" src="https://github.com/user-attachments/assets/c8cc91e4-a55a-4449-8629-c0ccc13705bd" />
-
+<br>
 <img width="1304" height="428" alt="image" src="https://github.com/user-attachments/assets/1270147f-b8a3-42f1-8791-f61b1f815e35" />
