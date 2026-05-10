@@ -58,7 +58,7 @@ Download or upload the full `modpacks-addon-upload` folder to your panel server.
 Recommended location:
 
 ```bash
-/opt/pterodactyl-panel/modpacks-addon-upload
+/var/www/pterodactyl/modpacks-addon-upload
 ```
 
 If your panel is installed somewhere else, place the folder directly inside your panel directory.
@@ -68,7 +68,7 @@ If your panel is installed somewhere else, place the folder directly inside your
 SSH into your panel server and run:
 
 ```bash
-cd /opt/pterodactyl-panel
+cd /var/www/pterodactyl/
 sh modpacks-addon-upload/addon.sh
 ```
 
@@ -105,7 +105,7 @@ Configure:
 Upload the new `modpacks-addon-upload` folder, replacing the old upload folder, then run:
 
 ```bash
-cd /opt/pterodactyl-panel
+cd /var/www/pterodactyl/
 sh modpacks-addon-upload/addon.sh
 ```
 
@@ -122,7 +122,7 @@ Existing addon settings are kept.
 Run:
 
 ```bash
-cd /opt/pterodactyl-panel
+cd /var/www/pterodactyl/
 sh modpacks-addon-upload/addon.sh
 ```
 
@@ -305,3 +305,11 @@ again.
 ## Notes
 
 This addon modifies panel files directly. Always keep backups and test updates on a staging panel when possible.
+
+
+
+## Screenshots
+<img width="1901" height="589" alt="image" src="https://github.com/user-attachments/assets/cc48bd1f-da6d-4657-aab1-2a9204812686" />
+<img width="1224" height="680" alt="image" src="https://github.com/user-attachments/assets/4287052a-b3eb-46a2-b4d3-a4e63b3d2dc8" />
+<img width="1261" height="748" alt="image" src="https://github.com/user-attachments/assets/c8cc91e4-a55a-4449-8629-c0ccc13705bd" />
+<img width="1304" height="428" alt="image" src="https://github.com/user-attachments/assets/1270147f-b8a3-42f1-8791-f61b1f815e35" />
